@@ -44,4 +44,5 @@ You can visit [http://localhost:3000](http://localhost:3000) to check that web a
 5. Will be a plus if hosted also on Heroku
 
 Good luck!
+
 ![Horses](https://raw.githubusercontent.com/zakhar-bozhok-jito/jun-frontend-test-task/main/horses.gif)
